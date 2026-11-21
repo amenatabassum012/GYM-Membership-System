@@ -2,7 +2,7 @@
 
 A college DBMS mini project. It manages gym members, trainers, membership plans, and payments. The data is stored in **Cloud Firestore** (a NoSQL document database). The frontend uses plain HTML, CSS, and JavaScript.
 
-Live demo: _add your GitHub Pages link here after deployment_
+Live demo:  https://amenatabassum012.github.io/GYM-Membership-System/
 
 ## Features
 
